@@ -10,8 +10,7 @@ This Power BI Dashboard provides a comprehensive analysis of credit card custome
 
 ### 📷 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot%202025-11-29%20152150.jpg)
-*(Note: Ensure your image file is named correctly in your repository)*
+<img width="1278" height="719" alt="Image" src="https://github.com/user-attachments/assets/4add4536-e790-477b-984a-96beba2c8c3b" />
 
 ---
 
